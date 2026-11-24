@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-https://ordering-licensing-monitor.lovable.app
+https://ordering-licensing-issue-monitor.lovable.app 
 _____
 
 ## What it demonstrates
