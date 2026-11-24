@@ -34,6 +34,12 @@ Each run, review Microsoft Teams channel XYZ. For every DLQ:
 Report each DLQ as one card with these fixed fields, in this order:
 
 OrderID: [order number, or "N/A"]
+Order Source: [Odoo, Salesforce]
+Status: [Addressed / In progress / Unaddressed / Unknown]
+Duration: [time since first seen while unaddressed]
+Recency: [time since last seen]
+Recurrence: [number of times this order has failed]
+Remark: [Addressed by (name, date) / Acknowledged by (name, date) / None]
 Status: [Addressed / In progress / Unaddressed / Unknown]
 Duration: [time since first seen while unaddressed]
 Recency: [time since last seen]
